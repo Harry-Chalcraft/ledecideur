@@ -16,7 +16,7 @@ There are some predefined categories such as:
 * When?
 * Personalised choice
 
-The user can always customize this categories with his own personnal choice, the app will remember these choices. If the user wishes to restore the default choices he can do so in the options.
+The user can always customize these categories with his own personnal choice, the app will remember them. If the user wishes to restore the default choices he can do so in the options.
 
 Once the decidor has picked a choice it is saved in a database and can be found in the library alongside the time stamp and the picture of said choice.
 

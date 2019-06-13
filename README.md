@@ -28,18 +28,32 @@ All changes are stored locally on the user's device.
 
 <p float="left">
   <img src="https://i.ibb.co/S68fCNf/ledecideur-signin.png" hspace="15" />
-  <img src="https://i.ibb.co/S68fCNf/ledecideur-signin.png" hspace="15" /> 
-  <img src="https://i.ibb.co/S68fCNf/ledecideur-signin.png" hspace="15" /> 
+  <img src="https://i.ibb.co/8c72Sz0/ledecideur-signup.png" hspace="15" /> 
+  <img src="https://i.ibb.co/qMz1qFW/ledecideur-home.png" hspace="15" /> 
 </p>
 
-* Sign-in, Sign-up and Home screen
+* What to eat, What to do and Personalised choices
 
 <p float="left">
-  <img src="https://i.ibb.co/S68fCNf/ledecideur-signin.png" hspace="15" />
-  <img src="https://i.ibb.co/S68fCNf/ledecideur-signin.png" hspace="15" /> 
-  <img src="https://i.ibb.co/S68fCNf/ledecideur-signin.png" hspace="15" /> 
+  <img src="https://i.ibb.co/cNb9xLL/ledecideur-food.png" hspace="15" />
+  <img src="https://i.ibb.co/5KD5KND/ledecideur-activities.png" hspace="15" /> 
+  <img src="https://i.ibb.co/HYcyzHd/ledecideur-choices.png" hspace="15" /> 
 </p>
 
+* Navigation menu, Result and Library
+
+<p float="left">
+  <img src="https://i.ibb.co/X3z7KQp/ledecideur-menu.png" hspace="15" />
+  <img src="https://i.ibb.co/rds0ctX/ledecideur-result.png" hspace="15" /> 
+  <img src="https://i.ibb.co/bmYQrrb/ledecideur-library.png" hspace="15" /> 
+</p>
+
+* Options and Contact
+
+<p float="left">
+  <img src="https://i.ibb.co/YX48ppt/ledecideur-options.png" hspace="15" />
+  <img src="https://i.ibb.co/K7B6yS6/ledecideru-contactus.png" hspace="15" /> 
+</p>
 
 
 

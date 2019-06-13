@@ -23,6 +23,8 @@ Once the decidor has picked a choice it is saved in a database and can be found 
 In the options, the user can restore the default choices, activate/deactivate the sound effect and modify the decision speed.
 All changes are stored locally on the user's device.
 
+You can find a v.1 on the Play Store [here](https://play.google.com/store/apps/details?id=com.ledecideur&hl=fr)
+
 **Screenshots:**
 * Sign-in, Sign-up and Home screen
 
@@ -56,6 +58,15 @@ All changes are stored locally on the user's device.
 </p>
 
 
+## Developed With
+
+* [Node.js](https://nodejs.org/en/) - Javascript runtime
+* [Express.js](https://expressjs.com/fr/) - a web application infrastructure for Node.js
+* [React Native](https://facebook.github.io/react-native/) - via Expo.io
+* [React Native Elements](https://react-native-training.github.io/react-native-elements/) - A platform with plenty components for React Native, great tool!
+* [React Redux](https://github.com/reduxjs/react-redux) - Redux is a predictable state container for JavaScript apps.
+* [React Native Responsive Screen](https://www.npmjs.com/package/react-native-responsive-screen) - A very useful module that allows your UI to become responsive to different screen sizes. (which they are not on React Native, and you cannot apply percentages to all UI elements unfortunately)
+* [mlab](https://mlab.com/) a MongoDB hosting service
 
 
 

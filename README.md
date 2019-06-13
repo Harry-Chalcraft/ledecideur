@@ -28,7 +28,7 @@ All changes are stored locally on the user's device.
 
 <p float="left">
   <img src="https://i.ibb.co/JrghyK9/ledecideur-signin.png" hspace="20" />
-  <img src="https://i.ibb.co/DkDGhWk/ledecideur-signup.png" /> 
+  <img src="https://i.ibb.co/DkDGhWk/ledecideur-signup.png" hspace="20" /> 
 </p>
 
 

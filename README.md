@@ -63,7 +63,7 @@ You can find a v.1 on the Play Store [here](https://play.google.com/store/apps/d
 * [Node.js](https://nodejs.org/en/) - Javascript runtime
 * [Express.js](https://expressjs.com/fr/) - a web application infrastructure for Node.js
 * [React Native](https://facebook.github.io/react-native/) - via Expo.io
-* [React Native Elements](https://react-native-training.github.io/react-native-elements/) - A platform with plenty components for React Native, great tool!
+* [React Native Elements](https://react-native-training.github.io/react-native-elements/) - A platform with plenty of components for React Native, great tool!
 * [React Redux](https://github.com/reduxjs/react-redux) - Redux is a predictable state container for JavaScript apps.
 * [React Native Responsive Screen](https://www.npmjs.com/package/react-native-responsive-screen) - A very useful module that allows your UI to become responsive to different screen sizes. (which they are not on React Native, and you cannot apply percentages to all UI elements unfortunately)
 * [mlab](https://mlab.com/) a MongoDB hosting service

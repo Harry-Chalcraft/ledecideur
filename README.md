@@ -23,6 +23,17 @@ Once the decidor has picked a choice it is saved in a database and can be found 
 In the options, the user can restore the default choices, activate/deactivate the sound effect and modify the decision speed.
 All changes are stored locally on the user's device.
 
+**Screenshots:**
+* Home screen:
+
+
+![faceup1](https://i.ibb.co/CM9xHFZ/faceup-home.jpg) ![faceup2](https://i.ibb.co/RcCDnGy/faceup-camera2.jpg)
+
+* Camera screen:
+
+
+
+
 
 
 

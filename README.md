@@ -27,9 +27,8 @@ All changes are stored locally on the user's device.
 * Home screen:
 
 
-![faceup1](https://i.ibb.co/CM9xHFZ/faceup-home.jpg) ![faceup2](https://i.ibb.co/RcCDnGy/faceup-camera2.jpg)
+![ledecideur1](https://i.ibb.co/JrghyK9/ledecideur-signin.png) ![ledecideur2](https://i.ibb.co/DkDGhWk/ledecideur-signup.png)
 
-* Camera screen:
 
 
 

@@ -27,12 +27,12 @@ All changes are stored locally on the user's device.
 * Home screen:
 
 <p float="left">
-  <img src="https://i.ibb.co/S68fCNf/ledecideur-signin.png" hspace="20" />
-  <img src="https://i.ibb.co/S68fCNf/ledecideur-signin.png" hspace="20" /> 
-  <img src="https://i.ibb.co/S68fCNf/ledecideur-signin.png" hspace="20" /> 
+  <img src="https://i.ibb.co/S68fCNf/ledecideur-signin.png" hspace="10" />
+  <img src="https://i.ibb.co/S68fCNf/ledecideur-signin.png" hspace="10" /> 
+  <img src="https://i.ibb.co/S68fCNf/ledecideur-signin.png" hspace="10" /> 
 </p>
 
-
+hspace="20"hspace="20"
 
 
 

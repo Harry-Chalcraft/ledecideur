@@ -27,7 +27,7 @@ All changes are stored locally on the user's device.
 * Home screen:
 
 
-![ledecideur1](https://i.ibb.co/JrghyK9/ledecideur-signin.png) ![ledecideur2](https://i.ibb.co/DkDGhWk/ledecideur-signup.png)
+![ledecideur1](https://i.ibb.co/JrghyK9/ledecideur-signin.png) | ![ledecideur2](https://i.ibb.co/DkDGhWk/ledecideur-signup.png)
 
 
 

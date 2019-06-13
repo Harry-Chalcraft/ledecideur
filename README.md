@@ -27,9 +27,9 @@ All changes are stored locally on the user's device.
 * Home screen:
 
 <p float="left">
-  <img src="https://i.ibb.co/JrghyK9/ledecideur-signin.png"  />
-  <img src="https://i.ibb.co/DkDGhWk/ledecideur-signup.png"  /> 
-  <img src="https://i.ibb.co/DkDGhWk/ledecideur-signup.png"  /> 
+  <img src="https://i.ibb.co/S68fCNf/ledecideur-signin.png"  />
+  <img src="https://i.ibb.co/S68fCNf/ledecideur-signin.png"  /> 
+  <img src="https://i.ibb.co/S68fCNf/ledecideur-signin.png"  /> 
 </p>
 
 

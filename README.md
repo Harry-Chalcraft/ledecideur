@@ -24,7 +24,7 @@ In the options, the user can restore the default choices, activate/deactivate th
 All changes are stored locally on the user's device.
 
 **Screenshots:**
-* Home screen:
+* Sign-in, Sign-up and Home screen
 
 <p float="left">
   <img src="https://i.ibb.co/S68fCNf/ledecideur-signin.png" hspace="15" />
@@ -32,7 +32,14 @@ All changes are stored locally on the user's device.
   <img src="https://i.ibb.co/S68fCNf/ledecideur-signin.png" hspace="15" /> 
 </p>
 
-hspace="20"hspace="20"
+* Sign-in, Sign-up and Home screen
+
+<p float="left">
+  <img src="https://i.ibb.co/S68fCNf/ledecideur-signin.png" hspace="15" />
+  <img src="https://i.ibb.co/S68fCNf/ledecideur-signin.png" hspace="15" /> 
+  <img src="https://i.ibb.co/S68fCNf/ledecideur-signin.png" hspace="15" /> 
+</p>
+
 
 
 

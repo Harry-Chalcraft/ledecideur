@@ -1,9 +1,9 @@
 var mongoose = require('mongoose');
 
-var user = 'harry';
-var password = 'azerty12';
-var port = 47926;
-var bddname = 'ledecideur';
+var user = //dv username
+var password = //db password
+var port = //db port
+var bddname = //db name
 
 var options = { connectTimeoutMS: 5000, useNewUrlParser: true }
 

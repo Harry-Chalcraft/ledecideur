@@ -9,11 +9,11 @@ Through the decidor character the app will randomly pick amongst a list of choic
 
 There are some predefined categories such as:
 
-* What to eat?
-* What to do tonight?
-* Who's right?
-* Should I?
-* When?
+* What to eat ?
+* What to do tonight ?
+* Who's right ?
+* Should I ?
+* When ?
 * Personalised choice
 
 The user can always customize these categories with his own personnal choice, the app will remember them. If the user wishes to restore the default choices he can do so in the options.
